@@ -1,4 +1,5 @@
 🎬 MavenMovies SQL Data Analysis Project
+
 Tools: SQL (MySQL)
 
 Analyzed a relational movie rental database (Sakila/MavenMovies) consisting of multiple interconnected tables including films, customers, rentals, payments, and categories, performing structured querying to explore customer behavior, film performance, and operational trends.
